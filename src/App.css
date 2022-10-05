@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.outer_main_div_class{
+  width:100%;
+  margin:auto;
+}
+.inner_main_div_class{
+  width:80%;
+  margin: auto;
+  padding:2vw;
+}
+.selecttag_2{
+   width:70%;
+   margin:auto;
+   display:flex;
+   justify-content: space-between;
+   padding:2vw;
+   border:1px solid grey;
+}
