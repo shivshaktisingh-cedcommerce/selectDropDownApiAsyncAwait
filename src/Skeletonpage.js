@@ -1,6 +1,8 @@
-import {SkeletonBodyText} from '@shopify/polaris';
+import {SkeletonBodyText , Card} from '@shopify/polaris';
 import React from 'react';
 
 export default function SkeletonExample() {
-  return <SkeletonBodyText />;
+  return<Card> 
+   <SkeletonBodyText />
+  </Card>;
 }

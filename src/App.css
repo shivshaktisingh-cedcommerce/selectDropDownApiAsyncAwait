@@ -12,10 +12,18 @@
   padding:2vw;
 }
 .selecttag_2{
-   width:70%;
+   width:90%;
    margin:auto;
    display:flex;
    justify-content: space-between;
    padding:2vw;
    border:1px solid grey;
+}
+.selecttag_1{
+  width:70%;
+  margin:auto;
+  margin-top:1vw;
+}
+.second_div_class{
+  width:100%;
 }
